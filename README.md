@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,35:6366f1,100:a855f7&height=220&section=header&text=Rohit%20Kasaudhan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML/AI%20Engineer%20%7C%20Builder%20of%20Agentic%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,35:6366f1,100:a855f7&height=220&section=header&text=Swastika%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://img.shields.io/badge/%E2%97%8F%20available%20for%20opportunities-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=1a1a2e&logoColor=22c55e" height="30"/>
 
 <br/>
 
-<a href="https://rohitkasaudhan.com.np">
-<img src="https://img.shields.io/badge/Portfolio-f43f5e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f" height="28"/>
-</a>
-<a href="https://linkedin.com/in/rohitkasaudhan">
+<a href="https://linkedin.com/in/swastika-gupta1">
 <img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=6366f1&labelColor=0a0a0f" height="28"/>
 </a>
-<a href="mailto:hello@rohitkasaudhan.com.np">
-<img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=0a0a0f" height="28"/>
+<a href="mailto:swastikagupta50@gmail.com">
+<img src="https://img.shields.io/badge/Email-f43f5e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" height="28"/>
+</a>
+<a href="https://github.com/swastika-gupta1">
+<img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=a855f7&labelColor=0a0a0f" height="28"/>
 </a>
 
 </div>
@@ -26,18 +26,24 @@
 
 ```json
 {
-  "name": "Rohit Kasaudhan",
-  "role": "Final-Year B.Tech CSE Student (ML/AI Specialization)",
-  "education": "KIIT University — Class of 2027",
-  "experience": "Data Engineering Intern @ Kritech Solutions",
+  "name": "Swastika Gupta",
+  "role": "Full Stack Developer & Data Analyst",
+  "education": "B.Tech CSE, KIIT University — Class of 2027",
+  "cgpa": 8.28,
+  "location": "Bhubaneswar, Odisha, India",
+  "experience": "Python Programmer @ Code Alpha",
   "focus": [
-    "Multi-agent LLM pipelines",
-    "RAG systems & vector search",
-    "Applied ML / computer vision",
-    "Full-stack deployment (React, Flask, PostgreSQL)"
+    "Full-stack web development",
+    "Data analysis & SQL",
+    "Machine learning & computer vision",
+    "Automation & CLI tooling"
   ],
-  "currentlyExploring": "Agentic architectures with LangGraph + Gemini API",
-  "status": "open_to_ai_ml_internships"
+  "certifications": [
+    "Oracle Cloud Infrastructure Generative AI Professional",
+    "Agentic AI — ExcelR Edtech",
+    "Ethical Decision Making for Success in Tech — UC Boulder"
+  ],
+  "status": "open_to_opportunities"
 }
 ```
 
@@ -49,10 +55,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Projects_Shipped-5+-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=6366f1"/>
-<img src="https://img.shields.io/badge/Hackathons-Vibe2Ship-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=a855f7"/>
-<img src="https://img.shields.io/badge/Grad_Year-2027-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=f43f5e"/>
-<img src="https://img.shields.io/badge/Focus-ML%2FAI-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=6366f1"/>
+<img src="https://img.shields.io/badge/CGPA-8.28-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=6366f1"/>
+<img src="https://img.shields.io/badge/Projects_Shipped-3+-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=a855f7"/>
+<img src="https://img.shields.io/badge/Certifications-3-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=f43f5e"/>
+<img src="https://img.shields.io/badge/Grad_Year-2027-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=6366f1"/>
 
 </div>
 
@@ -64,23 +70,23 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" />
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,flask,fastapi,vite,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind&theme=dark" />
 
-**AI / ML**
+**AI / ML & Data**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
 
 **Data & Infra**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,vercel,render&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
 
 <div align="center">
 <img src="https://img.shields.io/badge/-%E2%80%A2%20%E2%80%A2%20%E2%80%A2-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f" height="12"/>
@@ -90,10 +96,10 @@
 
 | Project | Description | Tags |
 |---|---|---|
-| **[CivicAlign](https://github.com/Rohit-kasaudhan)** | Six-agent Gemini pipeline for civic issue reporting & municipal intelligence | `Gemini API` `React` `Flask` `PostgreSQL` |
-| **[RAG Research Paper Q&A Agent](https://github.com/Rohit-kasaudhan)** | 7-node LangGraph state machine answering questions over research papers | `LangGraph` `ChromaDB` `Gemini 2.5 Flash` |
-| **[Attend-X](https://github.com/Rohit-kasaudhan)** | Face-recognition attendance system with real-time detection | `OpenCV` `LBPH` `MySQL` `Tkinter` |
-| **[Pikachu (Portfolio RAG Bot)](https://rohitkasaudhan.com.np)** | Chatbot embedded in personal site, powered by Gemini + pgvector | `Supabase` `pgvector` `Gemini` |
+| **[Attend-X](https://github.com/swastika-gupta1)** | Desktop face-recognition attendance system using LBPH, marking attendance in real time and exporting to CSV/Excel | `Python` `OpenCV` `MySQL` `Tkinter` |
+| **[KIIT University Portal](https://github.com/swastika-gupta1)** | Web portal for managing student information and university services | `HTML` `JavaScript` `CSS` `MySQL` |
+| **[8-Puzzle Game Web App](https://github.com/swastika-gupta1)** | Interactive browser-based puzzle game testing problem-solving skills | `Python` `HTML` `JavaScript` `CSS` |
+| **[Stock Portfolio Tracker & Task Automation](https://github.com/swastika-gupta1)** | Python CLI apps for investment tracking and workflow automation, with report generation in TXT/CSV | `Python` `File I/O` `CLI` |
 
 <div align="center">
 <img src="https://img.shields.io/badge/-%E2%80%A2%20%E2%80%A2%20%E2%80%A2-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f" height="12"/>
@@ -103,12 +109,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohit-kasaudhan&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=f43f5e&text_color=c9c9d1&ring_color=6366f1" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-kasaudhan&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=c9c9d1" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swastika-gupta1&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=f43f5e&text_color=c9c9d1&ring_color=6366f1" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastika-gupta1&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=c9c9d1" width="38%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-kasaudhan&hide_border=true&background=0a0a0f&stroke=6366f1&ring=f43f5e&fire=f43f5e&currStreakLabel=a855f7&sideLabels=c9c9d1&dates=6b6b76" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swastika-gupta1&hide_border=true&background=0a0a0f&stroke=6366f1&ring=f43f5e&fire=f43f5e&currStreakLabel=a855f7&sideLabels=c9c9d1&dates=6b6b76" width="60%"/>
 
 </div>
 
@@ -120,14 +126,13 @@
 
 <div align="center">
 
-<a href="https://rohitkasaudhan.com.np"><img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=vercel&logoColor=6366f1&labelColor=0a0a0f"/></a>
-<a href="https://linkedin.com/in/rohitkasaudhan"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=a855f7&labelColor=0a0a0f"/></a>
-<a href="https://github.com/Rohit-kasaudhan"><img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=f43f5e&labelColor=0a0a0f"/></a>
-<a href="mailto:hello@rohitkasaudhan.com.np"><img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=6366f1&labelColor=0a0a0f"/></a>
+<a href="https://linkedin.com/in/swastika-gupta1"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=6366f1&labelColor=0a0a0f"/></a>
+<a href="https://github.com/swastika-gupta1"><img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=a855f7&labelColor=0a0a0f"/></a>
+<a href="mailto:swastikagupta50@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=f43f5e&labelColor=0a0a0f"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rohit-kasaudhan&style=for-the-badge&color=a855f7&labelColor=0a0a0f" />
+<img src="https://komarev.com/ghpvc/?username=swastika-gupta1&style=for-the-badge&color=a855f7&labelColor=0a0a0f" />
 
 </div>
 
