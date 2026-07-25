@@ -1,180 +1,135 @@
-# Rohit Kasaudhan
 
-> **AI/ML Developer • Full Stack Developer • Python Programmer**
+# Swastika Gupta
 
-```{=html}
+> Frontend Developer • Data Analyst
+
+> **Note:** This is a starter `README.md` scaffold based on the requested premium layout. Replace `YOUR_GITHUB_USERNAME`, repository links, and add the images under `assets/`.
+
+---
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Rohit%20Kasaudhan&fontSize=48&fontColor=ffffff&animation=fadeIn"/>`{=html}
-```{=html}
+  <img src="assets/banner.png" width="100%" alt="Banner">
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="mailto:your_email@example.com">`{=html}`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
-`<a href="https://linkedin.com/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 👋 About Me
+# Swastika Gupta
 
-I'm a Computer Science Engineering student at **KIIT University**
-passionate about AI, Machine Learning, Python, and Full Stack
-Development.
+### Frontend Developer • Data Analyst
 
--   🎓 B.Tech CSE (2023--2027)
--   💻 Python Development Intern -- CodeAlpha
--   🤖 AI • ML • Computer Vision
--   🌐 Full Stack Development
--   📈 Open to Software Engineering & AI internships
+*Designing experiences where clean interfaces meet meaningful data.*
 
-------------------------------------------------------------------------
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=React+Developer;Frontend+Engineer;Data+Analyst;UI+Enthusiast;Problem+Solver"/>
 
-# 🛠 Tech Stack
+<br>
 
-## Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastika-gupta1)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swastikagupta50@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-![Python](https://skillicons.dev/icons?i=python,java,c,js,html,css)
+</div>
 
-## Frameworks
+---
 
-![Frameworks](https://skillicons.dev/icons?i=react,flask,nodejs,tailwind)
+# ✨ About Me
 
-## Database
+I build clean, responsive frontend experiences and enjoy using data to solve practical problems.
 
-![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
+## 🚀 Current Focus
 
-## AI / ML
+- Modern React applications
+- UI/UX improvements
+- Data analytics
+- Performance optimisation
 
-![AI](https://skillicons.dev/icons?i=tensorflow,opencv)
+---
 
-## Tools
+# ⚡ Tech Stack
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,figma)
+### Frontend
+React • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
-------------------------------------------------------------------------
+### Data
+Python • SQL • MySQL • PostgreSQL • Machine Learning
+
+### Tools
+Git • GitHub • VS Code • Figma • Linux
+
+---
 
 # 🚀 Featured Projects
 
-## Attend-X
+## 🎯 Attend-X
+AI-powered face recognition attendance system built using Python, OpenCV, Tkinter and MySQL.
 
-Face Recognition Attendance System built using Python, OpenCV, Tkinter
-and MySQL.
+**Tech:** Python • OpenCV • Tkinter • MySQL
 
-### Features
+**GitHub:** `Add repository link`
 
--   Face Detection
--   Real-time Attendance
--   CSV Export
--   Database Integration
+---
 
-------------------------------------------------------------------------
+## 🎓 KIIT University Portal
 
-## CivicAlign
+Student management portal built using HTML, CSS, JavaScript and MySQL.
 
-AI-powered citizen issue management platform using React, Flask, Gemini
-AI and PostgreSQL.
+**GitHub:** `Add repository link`
 
-Features:
+---
 
--   AI Categorization
--   Smart Prioritization
--   Geo-location
--   Leaderboard
--   Analytics
+## 🧩 8 Puzzle Game
 
-------------------------------------------------------------------------
+Interactive browser-based puzzle application.
 
-## Stock Portfolio Tracker
+**GitHub:** `Add repository link`
 
-Python CLI project with CSV reporting.
+---
 
-------------------------------------------------------------------------
+# 📈 GitHub Analytics
 
-## Research Paper QA
+Replace `YOUR_GITHUB_USERNAME` below.
 
-LLM powered document question-answering application.
+```md
+https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME
+https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME
+https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME
+```
 
-------------------------------------------------------------------------
+---
 
 # 💼 Experience
 
-## Python Development Intern
+**Python Programmer — Code Alpha**
 
-**CodeAlpha**
+- Stock Portfolio Tracker
+- Task Automation
+- Report Generation
+- Python Automation
 
--   Built automation projects
--   Developed portfolio tracker
--   File handling
--   Python scripting
+---
 
-------------------------------------------------------------------------
+# 🎓 Education
 
-# 🏆 Certifications
+**B.Tech in Computer Science Engineering**
 
--   Oracle Cloud Infrastructure Generative AI Professional
--   Google Developer Programs
--   CodeAlpha Internship
--   Hackathon Participation
+Kalinga Institute of Industrial Technology
 
-------------------------------------------------------------------------
+---
 
-# 📊 GitHub Stats
+# 📜 Certifications
 
-``` md
-Replace USERNAME below with your GitHub username.
-```
+- Oracle Cloud Infrastructure Generative AI Professional
+- Ethical Decision Making for Success in the Tech Industry
+- Agentic AI
 
-``` html
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact"/>
-<img src="https://streak-stats.demolab.com?user=USERNAME"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME"/>
-```
+---
 
-------------------------------------------------------------------------
+# 📬 Contact
 
-# 🌱 Currently Learning
+- Email: swastikagupta50@gmail.com
+- LinkedIn: https://linkedin.com/in/swastika-gupta1
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
 
--   LangGraph
--   Agentic AI
--   Docker
--   System Design
--   Advanced React
--   Cloud Deployment
+---
 
-------------------------------------------------------------------------
-
-# 🎯 Goals
-
--   Build production AI applications
--   Contribute to Open Source
--   Secure an SDE / AI Internship
--   Learn scalable backend systems
-
-------------------------------------------------------------------------
-
-# 📫 Connect
-
--   GitHub
--   LinkedIn
--   Email
--   Portfolio
-
-------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-> "Code. Learn. Build. Repeat."
-
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>`{=html}
-
-```{=html}
-</p>
-```
+> *Thanks for visiting my profile!*
