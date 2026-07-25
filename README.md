@@ -1,77 +1,180 @@
-<div align="center">
+# Rohit Kasaudhan
 
-<img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1600&h=400&fit=crop" width="100%" height="220" style="object-fit:cover;"/>
+> **AI/ML Developer • Full Stack Developer • Python Programmer**
 
-<br/>
-
-# Swastika Gupta
-### s o f t w a r e &nbsp; d e v e l o p e r
-
-</div>
-
-<br/>
-
-<h2 align="center">Hi there 👋, &lt; devs /&gt;</h2>
-
+```{=html}
 <p align="center">
-My name is Swastika Gupta. A final-year B.Tech CSE student at KIIT University with a CGPA of 8.28.
-My main areas of interest are full-stack web development, data analysis, and machine learning.
-Right now, I'm sharpening my skills in agentic AI systems and cloud-based GenAI tooling. I also enjoy
-solving problems through clean, practical Python projects.
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Rohit%20Kasaudhan&fontSize=48&fontColor=ffffff&animation=fadeIn"/>`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="mailto:your_email@example.com">`{=html}`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
+`<a href="https://linkedin.com/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
 
-<br/>
+------------------------------------------------------------------------
 
-<h2 align="center">🧊 Tech Stack</h2>
+# 👋 About Me
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&theme=light" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,html,css&theme=light" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,opencv,git,github,figma,vscode&theme=light" />
-</div>
+I'm a Computer Science Engineering student at **KIIT University**
+passionate about AI, Machine Learning, Python, and Full Stack
+Development.
 
-<br/>
+-   🎓 B.Tech CSE (2023--2027)
+-   💻 Python Development Intern -- CodeAlpha
+-   🤖 AI • ML • Computer Vision
+-   🌐 Full Stack Development
+-   📈 Open to Software Engineering & AI internships
 
-<h2 align="center">📈 Statistics</h2>
+------------------------------------------------------------------------
 
-<div align="center">
+# 🛠 Tech Stack
 
-<a href="https://github.com/swastika-gupta1">
-<img src="https://github-readme-stats.vercel.app/api?username=swastika-gupta1&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2f6f6f&icon_color=ff6f61&text_color=333333"/>
-</a>
-<a href="https://github.com/swastika-gupta1">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastika-gupta1&layout=compact&hide_border=true&bg_color=ffffff&title_color=2f6f6f&text_color=333333"/>
-</a>
+## Languages
 
-</div>
+![Python](https://skillicons.dev/icons?i=python,java,c,js,html,css)
 
-<br/>
+## Frameworks
 
-<h2 align="center">🧊 Few More Things</h2>
+![Frameworks](https://skillicons.dev/icons?i=react,flask,nodejs,tailwind)
 
-**Currently learning**
-- Agentic AI systems & multi-agent workflows
-- Oracle Cloud Infrastructure Generative AI tooling
-- Advanced SQL & database optimization
-- System design fundamentals
+## Database
 
-<br/>
+![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
 
-<div align="center">
+## AI / ML
 
-With 💗 from India
+![AI](https://skillicons.dev/icons?i=tensorflow,opencv)
 
-</div>
+## Tools
 
-<br/>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,figma)
 
-**Pinned**
+------------------------------------------------------------------------
 
-| Repo | Description |
-|---|---|
-| 🔲 **Attend-X** &nbsp; `Public` | Face recognition attendance system using OpenCV & LBPH, exporting attendance to CSV/Excel <br/> 🟢 Python |
-| 🔲 **KIIT-University-Portal** &nbsp; `Public` | Web portal for managing student information and university services <br/> 🟡 JavaScript |
-| 🔲 **8-Puzzle-Game** &nbsp; `Public` | Interactive browser-based puzzle game testing problem-solving skills <br/> 🟡 JavaScript |
-| 🔲 **Stock-Portfolio-Tracker** &nbsp; `Public` | CLI app for tracking investments with automated TXT/CSV report generation <br/> 🔵 Python |
+# 🚀 Featured Projects
+
+## Attend-X
+
+Face Recognition Attendance System built using Python, OpenCV, Tkinter
+and MySQL.
+
+### Features
+
+-   Face Detection
+-   Real-time Attendance
+-   CSV Export
+-   Database Integration
+
+------------------------------------------------------------------------
+
+## CivicAlign
+
+AI-powered citizen issue management platform using React, Flask, Gemini
+AI and PostgreSQL.
+
+Features:
+
+-   AI Categorization
+-   Smart Prioritization
+-   Geo-location
+-   Leaderboard
+-   Analytics
+
+------------------------------------------------------------------------
+
+## Stock Portfolio Tracker
+
+Python CLI project with CSV reporting.
+
+------------------------------------------------------------------------
+
+## Research Paper QA
+
+LLM powered document question-answering application.
+
+------------------------------------------------------------------------
+
+# 💼 Experience
+
+## Python Development Intern
+
+**CodeAlpha**
+
+-   Built automation projects
+-   Developed portfolio tracker
+-   File handling
+-   Python scripting
+
+------------------------------------------------------------------------
+
+# 🏆 Certifications
+
+-   Oracle Cloud Infrastructure Generative AI Professional
+-   Google Developer Programs
+-   CodeAlpha Internship
+-   Hackathon Participation
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+``` md
+Replace USERNAME below with your GitHub username.
+```
+
+``` html
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact"/>
+<img src="https://streak-stats.demolab.com?user=USERNAME"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME"/>
+```
+
+------------------------------------------------------------------------
+
+# 🌱 Currently Learning
+
+-   LangGraph
+-   Agentic AI
+-   Docker
+-   System Design
+-   Advanced React
+-   Cloud Deployment
+
+------------------------------------------------------------------------
+
+# 🎯 Goals
+
+-   Build production AI applications
+-   Contribute to Open Source
+-   Secure an SDE / AI Internship
+-   Learn scalable backend systems
+
+------------------------------------------------------------------------
+
+# 📫 Connect
+
+-   GitHub
+-   LinkedIn
+-   Email
+-   Portfolio
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+> "Code. Learn. Build. Repeat."
+
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>`{=html}
+
+```{=html}
+</p>
+```
